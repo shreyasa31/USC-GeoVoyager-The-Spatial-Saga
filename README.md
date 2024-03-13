@@ -35,7 +35,7 @@ This endeavor focuses on the exploration, management, and analysis of geo-spatia
 - **Google Earth Imagery:**
   Importing the KML file into Google Earth to visually map the locations across the USC campus.
 
-  ![Google Earth](images/All points.png)
+  ![Google Earth](images/All_points.png)
 
 
 ### 3. Spatial Analysis with Postgres+PostGIS
